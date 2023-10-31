@@ -11,7 +11,10 @@ Welcome to the Swiggy Clone project! This collaborative effort allows each contr
 
 ## Project Details
 
-This project aims to recreate the first two pages of the Swiggy app using Flutter. The focus is on the splash screen and the login/signup page. Contributors are encouraged to bring their creativity and innovation to the table while maintaining the basic structure and functionality of the Swiggy app.
+This project aims to recreate the first two pages of the Swiggy app using Flutter.The focus is on the main page and the my account page Contributors are encouraged to bring their creativity and innovation to the table while maintaining the basic structure and functionality of the Swiggy app.
+
+![PAGE 1](<WhatsApp Image 2023-10-31 at 10.02.21_f0c9a64b.jpg>)
+![Page 2](<WhatsApp Image 2023-10-31 at 10.02.22_0fb3d48b.jpg>)
 
 ## How to Create Your Flutter Project
 
